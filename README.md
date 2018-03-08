@@ -168,6 +168,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
+ * [CLI11](https://github.com/CLIUtils/CLI11) - Header only C++11 only library for simple and advanced CLI parsing. [BSD]
 
 ## Compression
 *Compression and Archiving Libraries*
